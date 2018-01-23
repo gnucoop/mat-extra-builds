@@ -8,5 +8,5 @@
     }
   ],
   "flatModuleIndexRedirect": true,
-  "importAs": "@angular/mat-extra"
+  "importAs": "@gnucoop/mat-extra"
 }
