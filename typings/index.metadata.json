@@ -1,0 +1,1 @@
+{"__symbolic":"module","version":4,"metadata":{"VERSION":{"__symbolic":"new","expression":{"__symbolic":"reference","module":"@angular/core","name":"Version","line":23,"character":27},"arguments":["0.1.0-36db3eb"]}},"origins":{"VERSION":"./version"},"importAs":"@gnucoop/mat-extra"}
