@@ -1,6 +1,6 @@
 {
   "name": "@gnucoop/mat-extra",
-  "version": "0.1.0-629781c",
+  "version": "0.1.0-0966875",
   "description": "Ng-Extra for Angular Material",
   "main": "./bundles/mat-extra.umd.js",
   "module": "./esm5/mat-extra.es5.js",
