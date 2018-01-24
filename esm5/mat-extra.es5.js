@@ -45,7 +45,7 @@ import { Version } from '@angular/core';
 /**
  * Current version of Ng-Extra.
  */
-var VERSION = new Version('0.1.0-9575053');
+var VERSION = new Version('0.1.0-0b58b8a');
 
 /**
  * @fileoverview added by tsickle
